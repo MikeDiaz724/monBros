@@ -1,0 +1,19 @@
+{
+  "name": "monbros",
+  "version": "1.0.0",
+  "description": "testing full app from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrain-vasquez/monBros.git"
+  },
+  "author": "efrain-vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efrain-vasquez/monBros/issues"
+  },
+  "homepage": "https://github.com/efrain-vasquez/monBros#readme"
+}
